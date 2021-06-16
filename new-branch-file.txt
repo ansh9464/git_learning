@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the new branch
+=======
+This is our new branch
+>>>>>>> new-branch
